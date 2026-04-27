@@ -1,7 +1,7 @@
 # RedTiger-Tools
 Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
 
-
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 Multi-Tools
 
