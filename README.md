@@ -165,7 +165,5 @@ Dowloads "RedTiger-Tools.zip" Here
 Or
 
 1 - Open a terminal.
-2 - Write "git clone https://github.com/Rain798377/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
-4 - Write "git pull"
-5 - Write "python Setup.py"
+2 - Write "cd RedTiger-Tools"
+3 - Write "python Setup.py"
