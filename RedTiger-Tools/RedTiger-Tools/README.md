@@ -22,7 +22,6 @@ Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
   - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
-  - <strong>Frequently updated</strong>.<br>
   - <strong>Free</strong> for everyone.<br>
   - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
   <br><br>
